@@ -4,7 +4,9 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](thalasousap@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sousathales.1/)
 
-![Thales GitHub stats](https://github-readme-stats.vercel.app/api?username=Thales25&show_icons=true&theme=dark)
+![Thales GitHub stats](https://github-readme-stats.vercel.app/api?username=Thales25&show_icons=true&theme=blue-green)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thales25&hide_progress=true)](https://github.com/Thales25/github-readme-stats)
 
 ## Tecnologias nas quais possuo habilidades e as que estou atualmente buscando aprimorar.
 
@@ -16,4 +18,4 @@
 </div>
 
 
-### Abraçar as tecnologias é abraçar o futuro, e aqueles que têm a coragem de aprender e inovar, são os que moldam o amanhã.
+### Abraçar as tecnologias é abraçar o futuro, e aqueles que têm a coragem de aprender e inovar, são os que moldam o amanhã.👨‍🎓 🧑‍💻
