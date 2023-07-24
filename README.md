@@ -6,7 +6,7 @@
 
 ![Thales GitHub stats](https://github-readme-stats.vercel.app/api?username=Thales25&show_icons=true&theme=blue-green)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thales25&langs_count=3)](https://github.com/Thales25/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thales25&langs_count=5)](https://github.com/Thales25/github-readme-stats)
 
 ## Tecnologias nas quais possuo habilidades e as que estou atualmente buscando aprimorar.
 
